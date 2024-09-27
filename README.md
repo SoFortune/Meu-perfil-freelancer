@@ -7,7 +7,6 @@ Este é o repositório do meu portfólio pessoal, onde apresento meus projetos, 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Autor](#autor)
 
